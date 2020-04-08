@@ -43,6 +43,9 @@ const Banner = () => {
             <Img fluid={data.orange.childImageSharp.fluid} />
           </div>
         </div>
+        <div className="scroll">
+          <span>Scroll down</span>
+        </div>
       </div>
     </div>
   )
